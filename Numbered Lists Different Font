@@ -1,0 +1,5 @@
+ul.bullets li {
+  line-height: inherit; 
+  margin-bottom: .5em; 
+  font-family: ‘font’, serif; 
+} 
