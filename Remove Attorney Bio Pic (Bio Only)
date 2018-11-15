@@ -1,0 +1,3 @@
+.photo.large {
+  display: none;
+}
