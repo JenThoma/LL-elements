@@ -1,0 +1,17 @@
+<div class="badges">
+<img src="IMAGE LINK">
+<img src="IMAGE LINK">
+</div>
+
+
+.badges {
+  align-items: center;
+  display: flex;
+  height:fit-content;
+  justify-content: center;
+}
+
+
+.badges div {
+  padding: 0 1em;
+}
