@@ -1,0 +1,1 @@
+$('#page_PAGE NUMBER').attr('href', 'LINK').attr('target', '_blank');
