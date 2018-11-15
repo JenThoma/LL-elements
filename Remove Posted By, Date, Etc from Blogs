@@ -1,0 +1,3 @@
+.primary .content .blog_posts .meta {
+  display: none;
+} 
