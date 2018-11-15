@@ -1,0 +1,7 @@
+.commentsIco {
+  display: none;
+}
+
+.sub.blog #comments {
+  display: none;
+}
