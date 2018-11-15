@@ -1,0 +1,1 @@
+$('.YOUR-SELECTOR').attr('poster', 'NEW-IMAGE.jpg');
