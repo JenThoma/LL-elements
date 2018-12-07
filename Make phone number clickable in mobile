@@ -1,0 +1,5 @@
+<script>
+$(document).ready(function() {
+  $('.header-phone .phone p').wrapInner('<a href="#"></a>');
+});
+</script>
