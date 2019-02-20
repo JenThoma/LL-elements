@@ -1,0 +1,7 @@
+**CSS in Header Scripts**
+a[disabled], a[disabled]:hover {
+   pointer-events: none;
+}
+
+**JS in Footer scripts**
+$('#page_PAGEID').attr('href','javascript:;').attr('disabled', 'disabled');
