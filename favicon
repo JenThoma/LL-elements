@@ -1,0 +1,7 @@
+Add all of the following. Include the full image link for each, but keep the file name the same
+
+<link href='/favicon.ico' rel='shortcut icon' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon.png" sizes="32x32">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
